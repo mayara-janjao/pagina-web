@@ -1,5 +1,6 @@
 body {
     background-color: rgb(168, 225, 248);
+    font-family: bai janjuree;
 }
 
 footer {
@@ -8,4 +9,11 @@ color: white;
 bottom: 0;
 position: fixed;
 width: 100%;
+height: 2rem;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 0.5rem;
 }
