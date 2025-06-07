@@ -1,3 +1,9 @@
 body {
     background-color: rgb(168, 225, 248);
 }
+
+footer {
+background-color: black;
+color: white;
+bottom: 0;
+}
