@@ -47,12 +47,16 @@ body {
     padding: 2rem;
 }
 
-.cartao__conteudo__pergunta {
+.cartao__conteudo__pergunta p {
     color: var(--text-color);
 }
 
-.cartao__conteudo__resposta {
+.cartao__conteudo__resposta p {
     color: var(--card-back-color);
+}
+
+.cartao:hover .cartao__conteudo{
+    transform: rotateY(180deg);
 }
 
 footer {
