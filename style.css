@@ -51,6 +51,7 @@ body {
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
+    font-size: 1.4vw;
 }
 
 .cartao__conteudo__pergunta p {
@@ -75,6 +76,7 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
+    background-color:#DBE4EF ;
 }
  
 
@@ -91,4 +93,14 @@ footer p {
     text-align: center;
     font-size: 0.7rem;
     margin-top: 0.5rem;
+}
+
+@media (max-width: 560px){
+    .cartao {
+        flex: 10 calc(100% - 1rem)
+    }
+
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
 }
