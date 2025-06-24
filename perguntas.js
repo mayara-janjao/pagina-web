@@ -1,35 +1,35 @@
-criacartao(
-    "programaçâo",
-    "o que é python",
-    "o paython é uma linguage de programaçâo"
+criaCartao(
+    "Programaçâo?",
+    "O que é Python",
+    "O Paython é uma linguagem de programaçâo."
 )
 
-criacartao(
-    "programaçâo",
-    "o que é front-end",
+criaCartao(
+    "Programaçâo?",
+    "O que é front-end",
     "O front-end é a parte visual de um site ou sistima."
 )
 
-criacartao(
-    "programaçâo",
-    "o que é back-end",
-    "o back-end é a parte invisivil do sistema."
+criaCartao(
+    "Programaçâo?",
+    "O que é back-end",
+    "O back-end é a parte invisivil do sistema."
 )
 
-criacartao(
-    "musica",
-    "o que é mpb",
-    "mpb sigla para musica popular brasileira é um gênero musical."
+criaCartao(
+    "Música",
+    "O que é mpb?",
+    "MPB, sigla para Música popular Brasileira é um gênero musical."
 )
 
-criacartao(
-    "musica",
-    "o que é pop",
-    "é um gênero musical caracterizado por ser acessível ao público em geral."
+criaCartao(
+    "Música",
+    "O que é pop?",
+    "È um gênero musical caracterizado por ser acessível ao público em geral."
 )
 
-criacartao(
-    "musica",
-    "o que é eletrônico",
-    "gênero musical modificado por equipamentos e instrumentos eletrônicos, como sintetizadores, computadores."
+criaCartao(
+    "Música",
+    "O que é eletrônico",
+    "Gênero musical modificado por equipamentos e instrumentos eletrônicos, como sintetizadores, computadores."
 )
