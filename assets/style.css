@@ -82,7 +82,7 @@
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color:#DBE4EF ;
+    background-color:#002b5f ;
     border: 4px solid var(--card-back-color);
 }
  
