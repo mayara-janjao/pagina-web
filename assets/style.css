@@ -108,14 +108,14 @@ footer p {
     }
 
     .cartao {
-        flex: 1 0 calc(100% - 1rem)
+        flex: calc(100% - 2rem)
     }
 
     .cartao__conteudo h3 {
-        font-size: 3vw;
+        font-size: 4vw;
     }
 
     .cartao__conteudo p {
-        font-size: 3.8vw;
+        font-size: 4.5vw;
     }
 }
