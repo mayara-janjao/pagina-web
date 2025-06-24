@@ -25,8 +25,7 @@
     flex-basis: calc(33% - 6rem);
     perspective: 1000px;
     position: relative;
-    border-radius: 0.8rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 3);
+ 
 }
 
 
